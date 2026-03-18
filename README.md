@@ -5,6 +5,13 @@ Interface web interactive regroupant un **wiki de référence** et un **tutoriel
 > **Source originale :** Guide écrit par *Andy* — [Upload Labs Guide v2.1 (Google Docs)](https://docs.google.com/document/d/1QpDOViW4pWlKfUC7cq7cNJpWqYV1GIHdp6NaYIvNb18/edit?tab=t.0#heading=h.mg8fyx24f06a)  
 > Ce projet est une réinterprétation en français sous forme d'interface web, non une traduction directe.
 
+## 🌐 Accès en ligne
+
+**[▶ Ouvrir le guide](https://kypsoza.github.io/rules_French/upload_labs_v3.html)**
+
+> Hébergé via GitHub Pages. Aucune installation requise — fonctionne directement dans le navigateur.  
+> Pour activer GitHub Pages : `Settings` → `Pages` → Source : `main` / `root`
+
 ---
 
 ## ✨ Fonctionnalités
