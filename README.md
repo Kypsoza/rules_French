@@ -10,7 +10,6 @@ Interface web interactive regroupant un **wiki de référence** et un **tutoriel
 **[▶ Ouvrir le guide](https://kypsoza.github.io/rules_French/upload_labs_v3.html)**
 
 > Hébergé via GitHub Pages. Aucune installation requise — fonctionne directement dans le navigateur.  
-> Pour activer GitHub Pages : `Settings` → `Pages` → Source : `main` / `root`
 
 ---
 
