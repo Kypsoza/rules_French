@@ -1,4 +1,4 @@
-# Upload Labs — Wiki & Tutoriel FR 🇫🇷
+# Upload Labs — Wiki & Tutoriel FR
 
 Interface web interactive regroupant un **wiki de référence** et un **tutoriel complet** pour le jeu [Upload Labs v2.1](https://uploadlabs.enigmastudio.dev/), du premier nœud jusqu'à l'end game.
 
